@@ -4,3 +4,5 @@ This project was idealized to serve as a small-scale model for a data storage sy
 To test it with the gcc compiler, it goes as follows on the terminal:
 
 >gcc -o exec main.c auxiliar.c -lssl -lcrypto
+
+I tested the ccode with an Ubuntu Xenial Xerus(16.04) and with a windows 10, so it should be working fine with something different.
